@@ -1,0 +1,13 @@
+Le plus célèbre des méthodologies est l'agile, mais il existe d'autres méthodologies qu'il est important de connaître, telles que :
+
+
+
+Modèle en spirale (Spiral Model) : Le modèle en spirale est un modèle de développement logiciel itératif qui combine des éléments du modèle en cascade (Waterfall) avec des approches itératives. Il se concentre sur l'évaluation des risques et l'adaptation continue du projet tout au long du cycle de vie du développement. Le modèle en spirale comporte des cycles d'analyse des risques, de développement, de test et de planification itérative pour progressivement construire et améliorer le système.
+
+Lean (Lean) : Le Lean est une méthodologie qui vise à éliminer les activités non essentielles et à maximiser la valeur pour le client. Dans le développement logiciel, les principes Lean mettent l'accent sur la réduction du gaspillage, l'optimisation des flux de travail et l'amélioration continue des processus. Cela permet de fournir des solutions plus efficaces et de haute qualité en minimisant les ressources gaspillées.
+
+Extreme Programming (XP) : L'Extreme Programming est une méthodologie de développement logiciel agile qui met l'accent sur la qualité du code, la communication étroite entre les membres de l'équipe et la réactivité aux changements. Elle met en œuvre des pratiques telles que le développement itératif, les tests automatisés, la programmation en binôme, la livraison continue et une planification flexible. L'XP favorise la collaboration étroite entre les développeurs, les testeurs et les clients pour créer des logiciels de haute qualité.
+
+Développement piloté par les fonctionnalités (Feature-driven development) : Le développement piloté par les fonctionnalités est une méthodologie agile axée sur la livraison itérative de fonctionnalités spécifiques. Elle se concentre sur l'identification des fonctionnalités clés du système, la planification de leur développement et leur livraison incrémentale. Le FDD met l'accent sur la collaboration entre les équipes de développement et les clients, la conception de modèles de conception et de développement, ainsi que sur les itérations rapides pour fournir des fonctionnalités de valeur aux utilisateurs.
+
+Méthodologie agile (Agile methodology) : L'agilité est une approche de développement logiciel basée sur des valeurs et des principes agiles. Les méthodologies agiles mettent l'accent sur la flexibilité, l'adaptabilité et la collaboration dans le but de fournir rapidement des solutions de haute qualité. Les méthodologies agiles populaires comprennent Scrum, Kanban, XP et Lean. Elles encouragent le travail d'équipe, la communication continue, l'auto-organisation et la livraison incrémentale des fonctionnalités.
